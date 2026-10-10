@@ -60,8 +60,8 @@ The video includes the controls attribute so visitors can play, pause, and adjus
 9. Version Control and Deployment
 The source code is maintained in a Git repository and hosted on GitHub. The repository is intended to be public so the source code can be reviewed.
 GitHub Pages is used to publish the static website from the repository's main branch and root directory.
-Repository URL: GitHub repository URL
-Live website URL: GitHub Pages URL
+Repository URL: https://awaab-hallaj.github.io/Personal-Portfolio/
+Live website URL: https://awaab-hallaj.github.io/Personal-Portfolio/index.html
 
 11. External Resources and Acknowledgements
 The website was developed using HTML5 and CSS3 techniques covered in the course.
