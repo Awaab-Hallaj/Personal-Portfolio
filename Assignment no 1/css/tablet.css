@@ -1,0 +1,20 @@
+/* Tablet layout: 480px to 960px */
+
+#wrapper {
+    width: 92%;
+}
+
+.small-box {
+    width: 26%;
+    margin: 1%;
+    padding: 1.5%;
+}
+
+nav a {
+    padding: 8px;
+    margin: 2px;
+}
+
+.profile {
+    width: 160px;
+}

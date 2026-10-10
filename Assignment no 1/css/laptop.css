@@ -1,0 +1,19 @@
+/* Laptop and desktop layout: 961px and above */
+
+#wrapper {
+    width: 85%;
+}
+
+.small-box {
+    width: 27%;
+    margin: 1%;
+    padding: 1.5%;
+}
+
+#banner {
+    padding: 25px;
+}
+
+.profile {
+    width: 180px;
+}
